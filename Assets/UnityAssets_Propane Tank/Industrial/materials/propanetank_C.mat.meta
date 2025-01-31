@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9a6c498f4262fd49bd66512d93a62b2
+timeCreated: 1511804660
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106259
+  packageName: Propane Tank
+  packageVersion: 1.0
+  assetPath: Assets/VertexField/Industrial/materials/propanetank_C.mat
+  uploadId: 224718

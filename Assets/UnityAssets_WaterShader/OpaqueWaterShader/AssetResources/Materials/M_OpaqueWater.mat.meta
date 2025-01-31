@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd4ab23023f08394caa768d041e00a10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250126
+  packageName: os. Opaque Water Shader
+  packageVersion: 1.0.0
+  assetPath: Assets/OccaSoftware/OpaqueWaterShader/AssetResources/Materials/M_OpaqueWater.mat
+  uploadId: 571322

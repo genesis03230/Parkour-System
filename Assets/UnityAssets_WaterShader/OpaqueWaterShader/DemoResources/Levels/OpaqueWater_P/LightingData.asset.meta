@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82e39480510646744b19ec398b74b28f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250126
+  packageName: os. Opaque Water Shader
+  packageVersion: 1.0.0
+  assetPath: Assets/OccaSoftware/OpaqueWaterShader/DemoResources/Levels/OpaqueWater_P/LightingData.asset
+  uploadId: 571322

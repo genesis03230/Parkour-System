@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f47370779564bd143a8fffcd1c48c3dd, type: 3}
+  m_Name: Slide
+  m_EditorClassIdentifier: 
+  animName: Slide
+  obstacleTag: Slide
+  minHeight: 0
+  maxHeight: 0
+  rotateToObstacle: 0
+  postActionDelay: 0
+  enableTargetMatching: 0
+  isLongAction: 0
+  matchBodyPart: 1
+  matchStartTime: 0
+  matchTargetTime: 0
+  matchPosWeight: {x: 0, y: 1, z: 0}
+  extraOffset: {x: 0, y: 0, z: 0}

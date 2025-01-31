@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcd1668fa09e9f045b038356b1526319
+timeCreated: 1511804649
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106259
+  packageName: Propane Tank
+  packageVersion: 1.0
+  assetPath: Assets/VertexField/Industrial/prefabs/propane_tank_B.prefab
+  uploadId: 224718
