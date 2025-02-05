@@ -35,7 +35,7 @@
 </html>
 
   <br>
-  <h1> <strong>Parkour Actions</strong></h1>
+  <h1>🏃‍♂️ <strong>Parkour Actions</strong></h1>
 
   <h3>Step Up</h3>
    
@@ -72,7 +72,7 @@
   ![JumpFlipGIF](https://github.com/user-attachments/assets/97c21647-e785-4558-8947-d0cda98d3491)
 
   <br>
-  <h1> <strong>Climbing Actions</strong></h1>
+  <h1>🧗‍♂️ <strong>Climbing Actions</strong></h1>
   <h3>Idle to hang</h3>
    
   ![IdletoHangGIF](https://github.com/user-attachments/assets/3ff26b25-a9a5-409c-a0e6-7834b05b8496)
@@ -99,7 +99,7 @@
   ![FallingSlowMotionHardLandingGIF](https://github.com/user-attachments/assets/5f3d1e4f-3136-4169-89a7-d684b79593c2)
 
   <br>
-  <h1> <strong>Advanced Raycasting</strong></h1>
+  <h1>⚡ <strong>Advanced Raycasting</strong></h1>
   <h3>Complex Raycast for more Precise Detection</h3>
 
   ![RaycastDetectionGIF](https://github.com/user-attachments/assets/16a5268d-05c2-4670-9eca-7c48e08545b0)
