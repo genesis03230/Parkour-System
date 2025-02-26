@@ -6,7 +6,7 @@
   <p>
     Este repositorio contiene un avanzado <strong>Character Controller</strong> creado durante el Bootcamp de Masterdevs, donde se implementaron y exploraron mecánicas sofisticadas para el desarrollo de un completo <strong>Sistema de Parkour</strong>. El sistema fue diseñado para ofrecer una experiencia fluida y dinámica en el manejo de personajes en entornos complejos.
   </p>
-  <p>Puedes ver el <a href='https://www.youtube.com/watch?v=iR5NnMDIwtQ' target='_blank'>video completo en YouTube</a> para conocer el proyecto en detalle.</p>
+  <p>Puedes ver el <a href='https://www.youtube.com/watch?v=tQQ6rq41wCU&t=34s' target='_blank'>video completo en YouTube</a> para conocer el proyecto en detalle.</p>
   <h2>
     A continuación, algunas de las características principales y componentes incluidos:
   </h2>
