@@ -1,41 +1,45 @@
+# Advanced Parkour System – MasterDevs Bootcamp Project
+
 ![ParkourSystemGIF](https://github.com/user-attachments/assets/66258464-edb2-4409-9ac5-2edb029cc1e2)
 
-</head>
-<body>
-  <h1>🚀 <strong>Parkour System - Masterdevs Bootcamp Project</strong></h1>
-  <p>
-    Este repositorio contiene un avanzado <strong>Character Controller</strong> creado durante el Bootcamp de Masterdevs, donde se implementaron y exploraron mecánicas sofisticadas para el desarrollo de un completo <strong>Sistema de Parkour</strong>. El sistema fue diseñado para ofrecer una experiencia fluida y dinámica en el manejo de personajes en entornos complejos.
-  </p>
-  <p>Puedes ver el <a href='https://www.youtube.com/watch?v=tQQ6rq41wCU&t=34s' target='_blank'>video completo en YouTube</a> para conocer el proyecto en detalle.</p>
-  <h2>
-    A continuación, algunas de las características principales y componentes incluidos:
-  </h2>
-  <ul>
-    <li><strong>Raycasting y Colisiones Avanzadas:</strong> Precisión en la detección de superficies y obstáculos para maniobras de parkour.</li>
-    <li><strong>Animaciones Complejas:</strong> Movimientos suaves y sincronizados para distintas acciones del personaje.</li>
-    <li><strong>Manejo de Cámaras Múltiples:</strong> Cambio dinámico de perspectivas para mejorar la experiencia del jugador.</li>
-    <li><strong>Sistema de Input Adaptado:</strong> Compatible tanto con teclado como con joystick.</li>
-    <li><strong>Postprocesado Visual:</strong> Mejora de la calidad gráfica y efectos visuales.</li>
-  </ul>
-  <h2>
-    El proyecto está estructurado en múltiples carpetas y scripts que facilitan la organización del código:
-  </h2>
-  <ul>
-    <li><strong>Third Person Controller:</strong> Manejo del controlador principal del personaje, incluyendo el control de cámara y la lógica de movimiento.</li>
-    <li><strong>Climbing System:</strong> Sistema para escalar puntos específicos del entorno.</li>
-    <li><strong>Utils:</strong> Funciones auxiliares para manejo físico y otras utilidades.</li>
-    <li><strong>Parkour System:</strong> Gestión de acciones clave de parkour como escaneado de entorno, deslizamientos y control principal de parkour.</li>
-    <li><strong>Custom Actions:</strong> Acciones personalizadas como Vault (superar obstáculos).</li>
-    <li><strong>Extras:</strong> Componentes adicionales que enriquecen la experiencia del juego, como efectos de audio, transiciones de cámara, sistema de pausa, activadores de texto, CineMachine, entre otros.</li>
-  </ul>
-  <p>
-    Este sistema fue creado desde cero para abordar mecánicas inspiradas en títulos avanzados como <em>Mirror's Edge</em>, brindando una experiencia única y versátil para futuros proyectos de videojuegos.
-  </p>
-</body>
-</html>
+## 🎯 Overview
+This project was developed during the **Advanced Character Controller Bootcamp (MasterDevs, 2025)**.  
+It showcases a **complete AAA-style parkour and climbing system** built in Unity, inspired by *Mirror’s Edge*, and recognized as the **best project of the bootcamp** for its originality and technical execution.
 
-  <br>
-  <h1>🏃‍♂️ <strong>Parkour Actions</strong></h1>
+- **Engine & Version:** Unity 2023.2.20f1  
+- **Duration:** 8 weeks (Nov 2024 – Jan 2025)  
+- **Final Delivery:** Playable demo + YouTube showcase (4:37 min)  
+- **Recognition:** Best project of the bootcamp (MasterDevs, 2025)
+
+📺 **[Watch the Full Demo on YouTube](https://www.youtube.com/watch?v=tQQ6rq41wCU&t=34s)**
+
+---
+
+## 🛠️ Key Features
+- **Advanced Character Controller** with physics-based movement, collisions, and extended Input System (keyboard + gamepad).  
+- **Parkour System**: vaults, climbs, ledge grabs, wall-runs, flips, rolls, and a **custom Slide action** (designed and implemented by me, later included in the bootcamp curriculum).  
+- **Climbing System**: ledge-to-ledge jumps, shimmy moves, corner rotations, climbing up/down, and soft landings.  
+- **Advanced Raycasting** for precise obstacle and height detection.  
+- **Animation System** with state machines, Target Matching, uMotion Pro refinements, and Unity Animation Rigging.  
+- **Cinematics & FX**: Cinemachine sequences, slow-motion effects (bullet time), fade transitions, SFX and soundtrack from *Mirror’s Edge*.  
+- **Custom Environment**: urban rooftop level created from scratch with Unity Store assets, designed and decorated in URP for a professional AAA look.  
+- **3D Character Integration**: custom character created with ReadyPlayer Me + clothing modeled in Blender to replicate *Faith* from *Mirror’s Edge*.  
+
+---
+
+## 📌 Project Structure
+- **Third Person Controller** → Core player movement & camera logic  
+- **Parkour System** → Obstacle detection, vaults, slides, jumps  
+- **Climbing System** → Ledge detection, climbing, shimmy moves, corner rotations  
+- **Custom Actions** → Slide action, flips, and extended parkour moves  
+- **Utils** → Physics helpers, collision handling, general utilities  
+- **Extras** → Cinemachine, audio system, pause menu, text triggers  
+
+---
+
+## ⚡ Actions Showcase
+(Below are all implemented mechanics with GIF demonstrations)
+
 
   <h3>Step Up</h3>
    
